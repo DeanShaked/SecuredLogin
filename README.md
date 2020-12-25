@@ -1,5 +1,5 @@
 # SecuredLogin
-A secured Login and Register with 2-Step Verification and E-Mail services.
+A Python secured Login and Register with 2-Step Verification and E-Mail services.
 
 * STMP to send Email.
 * Tkinter for GUI.
